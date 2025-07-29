@@ -49,5 +49,5 @@ I Love software and have a passion on creating applications that solves problems
 
 ## 📫 Let's Connect
 
- • https://github.com/Gtxplosiom
+https://www.linkedin.com/in/tryzler-sean-tolosa-750764377/ • https://github.com/Gtxplosiom
 
