@@ -8,9 +8,8 @@ I Love software and have a passion on creating applications that solves problems
 
 - 🔭 I’m currently working on: The Web Guitar and ATEDNIULI-NET8(refactor of ATEDNIULI our capstone project)
 - 🌱 I’m currently learning: C# MVVM, React.js, GODOT Game Development
-- 💬 Ask me about: Anything?
 - 📫 Reach me at: tryzlersean05@gmail.com
-- 🌐 Portfolio: Not have yet
+- 🌐 Portfolio: This Github repo
 
 ---
 
