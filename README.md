@@ -39,10 +39,10 @@ I Love software and have a passion on creating applications that solves problems
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | ATEDNIULI-NET8 | A complete refactor of ATEDNIULI | C# WPF, NET8, Whisper, Porcupine, ONNX, Microsoft.ML |
-| ATEDNIULI | Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
+| ATEDNIULI | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
 | The Web Guitar | A realistic guitar simulator on the web | React, Node.js |
 | Directory Auto Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
-| TBVGPE | A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8 |
+| TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8 |
 | Flappy Bee | My dramatic flappy bird clone | C#, GODOT, Aseprite |
 
 ---
