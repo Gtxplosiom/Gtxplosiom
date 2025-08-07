@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tryzler Sean G. Tolosa
 
-I Love software and have a passion on creating applications that solves problems efficiently
+I love software and  have a passion on creating software or applications that solves real-world problems efficiently
 
 ---
 
@@ -38,10 +38,10 @@ I Love software and have a passion on creating applications that solves problems
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| ATEDNIULI-NET8 | A complete refactor of ATEDNIULI | C# WPF, NET8, Whisper, Porcupine, ONNX, Microsoft.ML |
 | ATEDNIULI | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
+| ATEDNIULI-NET8 | A complete refactor of ATEDNIULI | C# WPF, NET8, Whisper, Porcupine, ONNX, Microsoft.ML |
 | InstaNote | A mobile note app that lets you create note drafts as instanote, to be expanded late. Made with React native | React Native |
-| GetSynced |  | PyQt, Kivy |
+| GetSynced | A cross-device file syncer application using PyQt for Windows and Kivy for Android | PyQt, Kivy |
 | Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
 | The Web Guitar | A realistic guitar simulator on the web | React, Node.js |
 | TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8 |
