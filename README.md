@@ -40,8 +40,10 @@ I Love software and have a passion on creating applications that solves problems
 |--------|-------------|------------|
 | ATEDNIULI-NET8 | A complete refactor of ATEDNIULI | C# WPF, NET8, Whisper, Porcupine, ONNX, Microsoft.ML |
 | ATEDNIULI | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
+| InstaNote | A mobile note app that lets you create note drafts as instanote, to be expanded late. Made with React native | React Native |
+| GetSynced |  | PyQt, Kivy |
+| Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
 | The Web Guitar | A realistic guitar simulator on the web | React, Node.js |
-| Directory Auto Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
 | TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8 |
 | Flappy Bee | My dramatic flappy bird clone | C#, GODOT, Aseprite |
 
