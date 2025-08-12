@@ -49,7 +49,3 @@ I love software and  have a passion on creating software or applications that so
 
 ---
 
-## 📫 Let's Connect
-
-https://www.linkedin.com/in/tryzler-sean-tolosa-750764377/ • https://github.com/Gtxplosiom
-
