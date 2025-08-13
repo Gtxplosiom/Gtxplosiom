@@ -8,7 +8,7 @@ I love software and  have a passion on creating software or applications that so
 
 - 🔭 I’m currently working on: The Web Guitar and ATEDNIULI-NET8(refactor of ATEDNIULI our capstone project)
 - 🌱 I’m currently learning: C# MVVM, React.js, GODOT Game Development
-- 📫 Reach me at: tryzlersean05@gmail.com
+- 📫 Reach me at: tryzlerseantolosa@gmail.com
 - 🌐 Portfolio: This Github repo
 
 ---
@@ -38,8 +38,9 @@ I love software and  have a passion on creating software or applications that so
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| ATEDNIULI | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
+| ATEDNIULI (Legacy) | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bidge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, Python, .NET Framework 4.6, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
 | ATEDNIULI-NET8 | A complete refactor of ATEDNIULI | C# WPF, NET8, Whisper, Porcupine, ONNX, Microsoft.ML |
+| Task Monster | A gamified todo web application that lets you defeat monsters! or your never ending backlogs... with a purpose on ending procrastination | React.js |
 | InstaNote | A mobile note app that lets you create note drafts as instanote, to be expanded late. Made with React native | React Native |
 | GetSynced | A cross-device file syncer application using PyQt for Windows and Kivy for Android | PyQt, Kivy |
 | Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
