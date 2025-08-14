@@ -45,7 +45,7 @@ I love software and  have a passion on creating software or applications that so
 | GetSynced | A cross-device file syncer application using PyQt for Windows and Kivy for Android | PyQt, Kivy |
 | Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
 | The Web Guitar | A realistic guitar simulator on the web | React, Node.js |
-| TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8 |
+| TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8, ViGEmBus |
 | Flappy Bee | My dramatic flappy bird clone | C#, GODOT, Aseprite |
 
 ---
