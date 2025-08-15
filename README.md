@@ -6,7 +6,7 @@ I love software and  have a passion on creating software or applications that so
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: The Web Guitar and ATEDNIULI-NET8(refactor of ATEDNIULI our capstone project)
+- 🔭 I’m currently working on: Task Monster, GetSynced and ATEDNIULI-NET8(refactor of ATEDNIULI our capstone project)
 - 🌱 I’m currently learning: C# MVVM, React.js, GODOT Game Development
 - 📫 Reach me at: tryzlerseantolosa@gmail.com
 - 🌐 Portfolio: This Github repo
