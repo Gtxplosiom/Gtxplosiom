@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tryzler Sean G. Tolosa
 
-I love software and  have a passion on creating software or applications that solves real-world problems efficiently
+I love software and I have a passion on creating software applications that solves real-world problems efficiently
 
 ---
 
