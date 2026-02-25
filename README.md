@@ -33,7 +33,7 @@ I love software and I have a passion on creating software applications that solv
 |--------|-------------|------------|
 | ATEDNIULI-NET8 | A complete refactored codebase of ATEDNIULI (Legacy) with significant improvements to UX and performance | C# WPF, NET8, Whisper, Vosk, Porcupine, ONNX, Microsoft.ML |
 | ATEDNIULI (Legacy) | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bridge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, .NET Framework 4.6, Python, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
-| The Word of the Lord | The Holy Bible | React.js, ASP.NET, PostgreSQL, Python | 
+| The Word of the Lord | Your Personalized Bible | React.js, ASP.NET, PostgreSQL, Python | 
 | Anything | An all-in-one personalized utility application that combines the power of customizable launcher and a collection of smart niche tools to maximize your productivity. | .NET WPF |
 | TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8, ViGEmBus |
 | Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
