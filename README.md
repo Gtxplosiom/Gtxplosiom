@@ -4,15 +4,6 @@ I love software and I have a passion on creating software applications that solv
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on: Task Monster, GetSynced and ATEDNIULI-NET8(refactor of ATEDNIULI our capstone project)
-- 🌱 I’m currently learning: C# MVVM, React.js, GODOT Game Development
-- 📫 Reach me at: tryzlerseantolosa@gmail.com
-- 🌐 Portfolio: This Github repo
-
----
-
 ## 🛠️ Languages and Tools I Have Used and Learned
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
