@@ -24,20 +24,3 @@ I love software and I have a passion on creating software applications that solv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-
----
-
-## 📎 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| ATEDNIULI-NET8 | A complete refactored codebase of ATEDNIULI (Legacy) with significant improvements to UX and performance | C# WPF, NET8, Whisper, Vosk, Porcupine, ONNX, Microsoft.ML |
-| ATEDNIULI (Legacy) | "Assistive Technology for Enhanced Desktop Navigation for Individuals with Upper Limb Impairments." Our Capstone project in the university which bridge the way for people with upper limb impairments to use computers, providing multimodal desktop interaction | C# WPF, .NET Framework 4.6, Python, DeepSpeech, Whisper, YOLO, Tensorflow, Keras |
-| The Word of the Lord | Your Personalized Bible | React.js, ASP.NET, PostgreSQL, Python | 
-| Anything | An all-in-one personalized utility application that combines the power of customizable launcher and a collection of smart niche tools to maximize your productivity. | .NET WPF |
-| TBVGPE | "The Best Virtual GamePad Ever." A virtual gamepad for touchscreen capable windows devices | C# WPF, NET8, ViGEmBus |
-| Directory Auto-Sorter | One click auto sorter that sorts based on preferred mode | JavaScript, Python, Electron |
-| Flappy Bee | My dramatic flappy bird clone | C#, GODOT, Aseprite |
-
----
-
