@@ -6,6 +6,7 @@ I love software and I have a passion on creating software applications that solv
 
 ## 🛠️ Languages and Tools
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/5081/PNG/512/aspnet_logo_icon_50818.png" alt="aspnet" width="40" height="40"/>
